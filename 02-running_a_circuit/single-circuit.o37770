@@ -1,0 +1,3 @@
+slurmstepd: info: Setting TMPDIR to /scratch/37770. Previous errors about TMPDIR can be discarded
+The counts per state are:
+{'00000000000000000000000000000000': 404, '10000000000000000000000000000000': 596}
