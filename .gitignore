@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
-private_material/*
-versions/*
+private_material/
+versions/
+other/
