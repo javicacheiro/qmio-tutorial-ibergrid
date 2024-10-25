@@ -1,0 +1,29 @@
+slurmstepd: info: Setting TMPDIR to /scratch/41166. Previous errors about TMPDIR can be discarded
+Importing calibrations from  /opt/cesga/qmio/hpc/calibrations/2024_10_25__12_00_02.json
+FakeQmio Counts: {'01': 11, '10': 5, '00': 494, '11': 514}
+
+*****************************************************************************
+*                                                                           *
+*                    JOB EFFICIENCY REPORT (seff 41166)                   *
+*                                                                           *
+*****************************************************************************
+
+Job ID: 41166
+Cluster: qmio
+User/Group: jlopez/cesga
+State: COMPLETED (exit code 0)
+Cores: 1
+CPU Utilized: 00:00:03
+CPU Efficiency: 15.79% of 00:00:19 core-walltime
+Job Wall-clock time: 00:00:19
+Memory Utilized: 0.00 MB (estimated maximum)
+Memory Efficiency: 0.00% of 4.00 GB (4.00 GB/core)
+
+ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ ++   Memory Efficiency is too small. Please review the requested memory. ++
+ ++ It seems that you do not need that much memory so we recommend        ++
+ ++ requesting less memory in other similar jobs.                         ++
+ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+*****************************************************************************
+

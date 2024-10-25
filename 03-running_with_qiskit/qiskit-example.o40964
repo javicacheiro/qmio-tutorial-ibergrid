@@ -1,5 +1,0 @@
-slurmstepd: info: Setting TMPDIR to /scratch/40964. Previous errors about TMPDIR can be discarded
-Importing calibrations from  /opt/cesga/qmio/hpc/calibrations/2024_10_24__12_00_02.json
-FakeQmio Counts: {'01': 11, '10': 4, '00': 506, '11': 503}
-Importing calibrations from  /opt/cesga/qmio/hpc/calibrations/2024_10_24__12_00_02.json
-QmioBackend Counts: {'11': 468, '00': 207, '01': 145, '10': 204}
