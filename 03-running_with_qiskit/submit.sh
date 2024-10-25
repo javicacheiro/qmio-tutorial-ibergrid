@@ -1,3 +1,4 @@
 #!/bin/bash
 
-sbatch job.sh
+sbatch job_fakeqmio.sh
+sbatch job_qmiobackend.sh
